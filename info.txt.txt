@@ -1,0 +1,37 @@
+Twitter : twitter.com/LeWagon.Brussels
+FaceBook : LeWagonformation
+
+#BeTech
+#LearnToCode
+
+Git:
+github.com account :
+marcvermeir
+marcvermeir@pandora.be
+F2Axxis273gh
+
+Slack:
+marcvermeir@telenet.be
+
+
+SSH Passphrase :
+i joined the nyd2016
+
+
+CURL:
+'curl --help'
+
+
+BASH:
+cd ~ 
+
+INFO:
+- BitBucket is alternative 4 GitHub
+
+CSS:
+
+color: #000000 : white
+color: #FFFFFF : black
+color: #111111 or similar pattern : grey
+
+Hover attribute is useless on mobile platforms
