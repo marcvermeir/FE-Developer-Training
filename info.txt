@@ -6,26 +6,37 @@ FaceBook : LeWagonformation
 
 Git:
 github.com account :
-marcvermeir
-marcvermeir@pandora.be
-F2Axxis273gh
+  marcvermeir
+  marcvermeir@pandora.be
+  F2Axxis273gh
 
 Slack:
-marcvermeir@telenet.be
+  marcvermeir@telenet.be
 
 
 SSH Passphrase :
-i joined the nyd2016
+  i joined the nyd2016
 
 
 CURL:
-'curl --help'
+  'curl --help'
 
 
 BASH:
-cd ~ 
+  cd ~ 
 
 
+SUBLIME Text:
+  - 'HTML:5' generates default HTML5 content
+  - install additional package(s) :
+	-- Color Highlighter
+	--
+	
+
+HTML5:
+  - <input type='image' ... >
+  - <input type="text" maxlength="4" ...
+  - <input type="number" minvalue="0" maxvalue="9999"
 
 INFO:
 - BitBucket is alternative 4 GitHub
